@@ -1,3 +1,3 @@
 Uh, Hey.
-This is a D&D 3.5ish Simkulator WIP that may at sometime evolve into a game of some kind.
+This is a D&D 3.5ish Simulator WIP that may at sometime evolve into a game of some kind.
 If you wish to help it do so, just will someone PLEASE help me find a way to sort a custom object by its fields, and then call an action for the specific object in question. Oh, and to complicte this even further, the objects are containers for another object, I need to sort initiative and not lose it when I order the creatures in a combat sequence, this is all happening within an array, because I need to have a variable number of paramters for the "Combat" method.
